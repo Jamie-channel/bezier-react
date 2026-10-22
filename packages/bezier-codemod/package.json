@@ -12,7 +12,7 @@
   "bin": "dist/cli.js",
   "type": "module",
   "engines": {
-    "node": ">=16"
+    "node": ">=22.23.4 <23"
   },
   "scripts": {
     "build": "tsc --build --verbose",
